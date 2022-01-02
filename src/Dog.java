@@ -7,7 +7,7 @@ class Dog {
     String name;
     int age;
     Breed breed;
-    int max;
+
 
     Dog(String name, int age, Breed breed) {
         this.age = age;
